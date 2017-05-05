@@ -1,5 +1,5 @@
 # Sudoku
-Implementing the backtracking algorithm to solve Sudoku games
+Implementing the backtracking algorithm to solve Sudoku puzzles.
 
 This project was done on the second weekend of the piscine at 42. 
 

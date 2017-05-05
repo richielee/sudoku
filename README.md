@@ -1,4 +1,4 @@
-# sudoku
+# Sudoku
 Implementing the backtracking algorithm to solve Sudoku games
 
 This project was done on the second weekend of the piscine at 42. 
